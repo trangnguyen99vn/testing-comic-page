@@ -1,0 +1,32 @@
+.chapter_image_wrapper {
+  border-radius: 8px;
+  overflow: hidden;
+  position: relative;
+}
+
+.chapter_image_wrapper > span {
+  display: block !important;
+}
+
+.progress {
+  position: absolute;
+  bottom: -8px;
+  left: 0;
+  width: 100%;
+}
+
+.lock {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  background-color: #fff;
+  border-radius: 50%;
+
+  width: 28px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

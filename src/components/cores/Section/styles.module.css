@@ -1,0 +1,8 @@
+.section_container {
+  padding: 24px;
+  width: 100%;
+  background-color: #141414;
+  border-radius: 8px;
+
+  margin-bottom: 24px;
+}

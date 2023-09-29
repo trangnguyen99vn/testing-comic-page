@@ -1,0 +1,12 @@
+.icon_wrapper {
+  display: flex;
+
+  padding: 8px;
+  background: #141414;
+  border-radius: 8px;
+  padding: 8px;
+  border: 1px solid #434343;
+  border-radius: 8px;
+
+  cursor: pointer;
+}

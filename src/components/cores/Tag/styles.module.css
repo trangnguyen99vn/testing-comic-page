@@ -1,0 +1,17 @@
+.container {
+  color: rgba(255, 255, 255, 0.65);
+
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 20px;
+
+  background: #141414;
+
+  border: 1px solid #434343;
+  box-sizing: border-box;
+  border-radius: 4px;
+
+  padding: 0px 4px;
+  margin-right: 8px;
+  text-transform: uppercase;
+}

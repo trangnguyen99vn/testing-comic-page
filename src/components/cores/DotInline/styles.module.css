@@ -1,0 +1,3 @@
+.dot_inline::before {
+  content: "\2022";
+}

@@ -1,0 +1,45 @@
+.mainposter_content_container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.mainposter_content_container > div {
+  width: 100%;
+}
+
+.mainposter_content_title {
+  color: #fff;
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 40px;
+  margin-bottom: 2px;
+}
+
+.mainposter_content_text {
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 24px;
+  color: rgba(255, 255, 255, 0.65);
+  margin-bottom: 6px;
+}
+
+.mainposter_content_text span::before {
+  content: "\2022";
+}
+
+.mainposter_content_group_info {
+  margin-right: 16px;
+  display: flex;
+  align-items: center;
+}
+
+.mainposter_content_info {
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 22px;
+  color: rgba(255, 255, 255, 0.65);
+  margin-left: 4px;
+}

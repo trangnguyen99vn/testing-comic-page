@@ -1,0 +1,9 @@
+.image_wrapper {
+  border-radius: 8px;
+  overflow: hidden;
+  position: relative;
+}
+
+.image_wrapper > span {
+  display: block !important;
+}

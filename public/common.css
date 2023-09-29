@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "inkr";
+  font-style: normal;
+  font-display: swap;
+  src: url("./fonts/inkr.eot") format("embedded-opentype"),
+    url("./fonts/inkr.ttf") format("truetype"),
+    url("./fonts/inkr.woff") format("woff");
+  font-weight: 400;
+}

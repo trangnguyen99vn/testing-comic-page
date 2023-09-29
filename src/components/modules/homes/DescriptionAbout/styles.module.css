@@ -1,0 +1,16 @@
+.about_wrapper {
+  margin-top: 13px;
+}
+
+.about_tags {
+  margin-bottom: 24px;
+}
+
+.about_showmore {
+  margin-top: 12px;
+  margin-bottom: -12px;
+}
+
+.about_showmore span {
+  cursor: pointer;
+}

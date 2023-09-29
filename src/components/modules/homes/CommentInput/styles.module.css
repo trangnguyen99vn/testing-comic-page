@@ -1,0 +1,7 @@
+.comment_input_field::placeholder {
+  color: rgba(255, 255, 255, 0.3);
+}
+
+.comment_add_button {
+  margin-top: 24px;
+}
